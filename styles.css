@@ -31,7 +31,6 @@ body {
         darkblue 360deg
       )
       border-box;
-  transform: rotateX(-70deg) rotateY(30deg) rotateZ(360deg);
   transform-style: preserve-3d;
   position: relative;
   animation: rotar;
@@ -59,7 +58,6 @@ body {
         darkblue 360deg
       )
       border-box;
-  transform: rotateX(70deg) rotateY(-30deg) rotateZ(360deg);
   animation: planeta;
   animation-duration: 8s;
   animation-iteration-count: infinite;
